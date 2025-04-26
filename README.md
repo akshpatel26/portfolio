@@ -1,3 +1,3 @@
 # My Portfolio
 
-visit Here: https://github.com/akshpatel26/portfolio.git
+visit Here: https://portfolio-phi-rust-36.vercel.app/
